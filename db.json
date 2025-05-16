@@ -1,0 +1,19 @@
+{
+  "comics": [
+    {
+      "id": "manhwa",
+      "title": "player",
+      "author": "Arroz"
+    },
+    {
+      "id": "manhua",
+      "title": "martial peak",
+      "author": "Zorra"
+    },
+    {
+      "id": "manga",
+      "title": "one piece",
+      "author": "Oda"
+    }
+  ]
+}
